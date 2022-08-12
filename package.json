@@ -1,0 +1,23 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "resfull_api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hainv198/node_server.git"
+  },
+  "keywords": [],
+  "author": "Hainv198",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hainv198/node_server/issues"
+  },
+  "homepage": "https://github.com/hainv198/node_server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
